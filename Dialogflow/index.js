@@ -21,7 +21,7 @@
  const {WebhookClient} = require('dialogflow-fulfillment');
  
  // Enter your calendar ID below and service account JSON below
- const calendarId = "bv1ef944d5tuvousrb4ddnq3fs@group.calendar.google.com";
+ const calendarId = "";
  const serviceAccount = {   
   "type": "",
   "project_id": "",
